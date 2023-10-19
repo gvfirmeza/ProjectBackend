@@ -9,9 +9,9 @@ Os laboratórios que solicitam serviços de dosimetria à Dosimagem precisam ano
 ### Ferramentas
 
 - [3D Slicer](https://download.slicer.org/)
-- [ImageJ](https://imagej.nih.gov/ij/download.html)
 - [Pydicom](https://pydicom.github.io/)
-- [dcm4che](https://github.com/dcm4che/dcm4che)
+- [Flask](https://flask.palletsprojects.com/)
+- [Insomnia](https://insomnia.rest/)
 
 ## Problema 2: Segmentação de Imagens DICOM
 
@@ -22,5 +22,6 @@ A Dosimagem utiliza a ferramenta 3D Slicer para realizar a segmentação de órg
 ### Ferramentas
 
 - [3D Slicer](https://download.slicer.org/)
-- [ImageJ](https://imagej.nih.gov/ij/download.html)
+- [Flask](https://flask.palletsprojects.com/)
+- [Insomnia](https://insomnia.rest/)
 
