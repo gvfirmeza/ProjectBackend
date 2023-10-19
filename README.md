@@ -1,4 +1,4 @@
-# ProjectBackend
+# Projeto Back-End
 
 ## Problema 1: Anonimização de Metadados de Imagens DICOM
 
